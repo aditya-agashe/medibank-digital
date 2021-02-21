@@ -1,0 +1,48 @@
+{
+    "hits": [
+        {
+            "created_at": "2020-08-29T01:43:26.000Z",
+            "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
+            "url": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/",
+            "author": "oftenwrong",
+            "points": 1600,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 486,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1598665406,
+            "_tags": [
+                "story",
+                "author_oftenwrong",
+                "story_24312545"
+            ],
+            "objectID": "24312545",
+            "_highlightResult": {
+                "title": {
+                    "value": "American Academy of Sleep <em>Medicine</em> calls for elimination of daylight saving time",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "medicine"
+                    ]
+                },
+                "url": {
+                    "value": "https://aasm.org/american-academy-of-sleep-<em>medicine</em>-calls-for-elimination-of-daylight-saving-time/",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "medicine"
+                    ]
+                },
+                "author": {
+                    "value": "oftenwrong",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }
+    ]
+}
